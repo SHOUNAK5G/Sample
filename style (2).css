@@ -1,0 +1,55 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_main_div
+{
+    border: 1px solid yellowgreen;
+}
+.travel_main_div img
+{
+    width: 100%;
+}
+.travel_main_div h5
+{
+    margin: 20px;
+}
+#BAA
+{
+    width: 100px;
+    height: 175px;
+}
+#BK
+{
+    width: 100px;
+    height: 175px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+#dropdown
+{
+    float:right;
+}
+.or
+{
+    color:orange;
+}
+.gr{
+    color:gray;
+}
+.book{
+    margin-bottom: 10px;
+}
+.MP{
+    height: 130px;
+    width: 150px;
+    padding-bottom: 30px;
+}
+#gay{
+    background-color: cyan;
+}
